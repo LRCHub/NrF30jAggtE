@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Always Remain",
+  "base_artist": "Toshinobu Kubota",
+  "createdAt": "2026-03-03T12:25:31.141934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Young at Heart (We'll Always Remain)",
+      "artist": "Gilbert O'Sullivan",
+      "has_synced": true,
+      "path": "select/01_Young_at_Heart_(We'll_Always_Remain)_Gilbert_O'Sullivan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tiny Pieces Will Always Remain",
+      "artist": "Midas Fall",
+      "has_synced": true,
+      "path": "select/02_Tiny_Pieces_Will_Always_Remain_Midas_Fall.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Always Remain",
+      "artist": "While the Heart Becomes",
+      "has_synced": true,
+      "path": "select/03_Always_Remain_While_the_Heart_Becomes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Our Love Will Always Remain",
+      "artist": "The Aquadolls",
+      "has_synced": true,
+      "path": "select/04_Our_Love_Will_Always_Remain_The_Aquadolls.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Young At Heart (We'll Always Remain)",
+      "artist": "Gilbert O'Sullivan",
+      "has_synced": true,
+      "path": "select/05_Young_At_Heart_(We'll_Always_Remain)_Gilbert_O'Sullivan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Young at Heart (We'll Always Remain)",
+      "artist": "Gilbert O’Sullivan",
+      "has_synced": true,
+      "path": "select/06_Young_at_Heart_(We'll_Always_Remain)_Gilbert_O’Sullivan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Young At Heart (We'll Always Remain)",
+      "artist": "Gilbert O'Sullivan",
+      "has_synced": true,
+      "path": "select/07_Young_At_Heart_(We'll_Always_Remain)_Gilbert_O'Sullivan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Young at Heart (We'll Always Remain)",
+      "artist": "Gilbert O’Sullivan",
+      "has_synced": true,
+      "path": "select/08_Young_at_Heart_(We'll_Always_Remain)_Gilbert_O’Sullivan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Always Remain",
+      "artist": "久保田利伸",
+      "has_synced": false,
+      "path": "select/09_Always_Remain_久保田利伸.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Always Remain",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_01_Always_Remain_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Always Remain",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_02_Always_Remain_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Always Remain",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_03_Always_Remain_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Always Remain",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_04_Always_Remain_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Always Remain",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_05_Always_Remain_久保田_利伸.txt"
+    }
+  ]
+}
